@@ -1,7 +1,4 @@
 dataset_1.csv:
   word, block (before and after shadowing), condition(with/out pictures), order, word duration, vot, memory test 1, memory test 2
   
-Modeling part:
-1. Reduced model to see the condition, block effects and frequency effect
-2. Separate conditions, per_model, per_cond2 models to model the conditions separately
-3. plots 
+
