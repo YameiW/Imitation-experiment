@@ -1,2 +1,4 @@
-Imitation-experiment		Phonetic (VOT) analysis
-This contains the materials and R codes.
+# Imitation-experiment		
+### Phonetic (VOT) analysis
+This repo contains the materials and R codes for VOT analysis.
+
